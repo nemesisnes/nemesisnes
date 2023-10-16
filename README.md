@@ -6,6 +6,7 @@
 - You can normally find me on UT99.org or at your local Starbucks (93rd and 2nd Avenue in NYC) if you're into drinking insane amounts of coffee and not worried about paying a huge tab (way better than drinking alcohol imo). 
 - I'm primarily using Solarus-Engine with Lua script and making a small little mini series of Legend of Zelda Spin-offs. The first two will be Book of Mudora and Dark Winds. Also working on an original series as well with a game that I used with RPG Maker 2k3 back in 2005-2008. The Legend of the Philosopher's Stone is getting a brand new story and remake using the Solarus-Engine.
 - Learning Xcode to be able to create iOS and MacOS specific apps and games. 
+- Currently secretly working on another project. 
 
 <!---
 nemesisnes/nemesisnes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
